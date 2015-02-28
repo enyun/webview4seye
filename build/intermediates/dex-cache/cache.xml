@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/android-sdks/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/admin/work/android/enyunTest/webview/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a36a9147fca5d21f52b0a96a89235a7f0d009e96.jar" />
+    </item>
+
+</items>
